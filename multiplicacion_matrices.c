@@ -58,7 +58,7 @@ int main(){
         }
         printf("\n\n\n");
     }
-    printf("RESTA DE MATRICES\n\n");
+    printf("MULTIPLICACION DE MATRICES\n\n");
     int matriz_mult[maximo][maximo];
     if(tamanio != tamanio2){
         printf("no se puede multiplicar estas matrices.\n");
