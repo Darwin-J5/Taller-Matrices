@@ -7,7 +7,7 @@
 int main(){
     int tamanio;
     int matriz[maximo][maximo];
-    printf("Ingrese el tamaño de la matriz nxn entre 1 y %d)\n", maximo);
+    printf("Ingrese el tamaño de la matriz nxn entre 1 y %d\n", maximo);
     scanf("%d", &tamanio);
 
     do{
